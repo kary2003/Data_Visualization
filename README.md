@@ -4,7 +4,7 @@
 
 ### Summarizing-Data-Using-Google-Sheets
 
-##The objective:
+## The objective:
 
 To introduce some of the most commonly used methods in the business setting, focusing on how to summarize vast amounts of data into a few numbers, charts, and graphs manually to gain the invaluable insights hidden in them  and when one is more appropriate than others.
 
@@ -25,5 +25,12 @@ Data will be imported into Google Sheet to construct frequency tables, bar chart
 
 ## Project Work Flow
 
+## Data Sets
+
+## Tools
+
+ * Google Sheets
+
+## Summary
 
 
