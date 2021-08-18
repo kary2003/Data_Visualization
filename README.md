@@ -1,5 +1,6 @@
-# Data Visualization
+# Data Visualization Mediums
 
+![image](https://user-images.githubusercontent.com/70820754/129827395-1f301141-1e84-4f87-86df-32ecd924e9ed.png)
 
 ### Summarizing-Data-Using-Google-Sheets
 
