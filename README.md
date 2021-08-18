@@ -1,10 +1,14 @@
 # Data Visualization
 
 
-## Summarizing-Data-Using-Google-Sheets
-The objective to introduce some of the most commonly used methods in the business setting, focusing on how to develop them and when one is more appropriate than others.
+### Summarizing-Data-Using-Google-Sheets
 
-### We will accomplish this by building up our skills through the following 6 tasks:
+##The objective:
+
+To introduce some of the most commonly used methods in the business setting, focusing on how to summarize vast amounts of data into a few numbers, charts, and graphs manually to gain the invaluable insights hidden in them  and when one is more appropriate than others.
+
+## Project Structure:
+Data will be imported into Google Sheet to construct frequency tables, bar charts, histograms, scatter plots, and pie charts to analyze and visualize the data.
 
   * Task 1: Frequency Tables in Google Sheet - Quantitative Data
   
@@ -17,3 +21,8 @@ The objective to introduce some of the most commonly used methods in the busines
   * Task 5: Pie Charts in Google Sheet
   
   * Task 6: Scatter Plots in Google Sheet
+
+## Project Work Flow
+
+
+
